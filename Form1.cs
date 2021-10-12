@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using CalculatorMachine;
 
 namespace CalculatorWindowsFormApp
 {
@@ -46,12 +47,16 @@ namespace CalculatorWindowsFormApp
             var a = int.Parse(txtNilaiA.Text);
             var b = Convert.ToInt32(txtNilaiB.Text);
 
+            var cal = new Calculator();
+
             lstHasil.Items.Clear();
 
-            lstHasil.Items.Add(string.Format("Hasil Penambahan : {0} + {1} = {2}", a, b, Penambahan(a, b)));
-            lstHasil.Items.Add(string.Format("Hasil Pengurangan : {0} - {1} = {2}", a, b, Pengurangan(a, b)));
-            lstHasil.Items.Add(string.Format("Hasil Perkalian : {0} x {1} = {2}", a, b, Perkalian(a, b)));
-            lstHasil.Items.Add(string.Format("Hasil Pembagian : {0} / {1} = {2}", a, b, Pembagian(a, b)));
+            lstHasil.Items.Add(string.Format("Hasil Penambahan : {0} + {1} = {2}", a, b, cal.Penambahan(a, b)));
+            lstHasil.Items.Add(string.Format("Hasil Pengurangan : {0} - {1} = {2}", a, b, cal.Pengurangan(a, b)));
+            lstHasil.Items.Add(string.Format("Hasil Perkalian : {0} x {1} = {2}", a, b, cal.Perkalian(a, b)));
+            lstHasil.Items.Add(string.Format("Hasil Pemangkatan : {0} ^ {1} = {2}", a, b, cal.Pangkat(a, b)));
+            lstHasil.Items.Add(string.Format("Hasil Pembagian : {0} / {1} = {2}", a, b, Calculator.Pembagian(a, b)));
+            lstHasil.Items.Add(string.Format("Hasil Modulo : {0} % {1} = {2}", a, b, Calculator.Modulo(a, b)));
         }
     }
 }

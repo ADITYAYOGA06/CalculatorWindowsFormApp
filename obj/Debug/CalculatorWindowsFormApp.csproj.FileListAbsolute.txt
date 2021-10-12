@@ -8,3 +8,16 @@ C:\Users\Lenovo\source\repos\CalculatorWindowsFormApp\obj\Debug\CalculatorWindow
 C:\Users\Lenovo\source\repos\CalculatorWindowsFormApp\obj\Debug\CalculatorWindowsFormApp.exe
 C:\Users\Lenovo\source\repos\CalculatorWindowsFormApp\obj\Debug\CalculatorWindowsFormApp.pdb
 C:\Users\Lenovo\source\repos\CalculatorWindowsFormApp\obj\Debug\CalculatorWindowsFormApp.csprojAssemblyReference.cache
+D:\Coba Coding\C#\Pemrograman Lanjut\CalculatorWindowsFormApp\bin\Debug\CalculatorWindowsFormApp.exe.config
+D:\Coba Coding\C#\Pemrograman Lanjut\CalculatorWindowsFormApp\bin\Debug\CalculatorWindowsFormApp.exe
+D:\Coba Coding\C#\Pemrograman Lanjut\CalculatorWindowsFormApp\bin\Debug\CalculatorWindowsFormApp.pdb
+D:\Coba Coding\C#\Pemrograman Lanjut\CalculatorWindowsFormApp\bin\Debug\CalculatorMachine.dll
+D:\Coba Coding\C#\Pemrograman Lanjut\CalculatorWindowsFormApp\bin\Debug\CalculatorMachine.pdb
+D:\Coba Coding\C#\Pemrograman Lanjut\CalculatorWindowsFormApp\obj\Debug\CalculatorWindowsFormApp.csprojAssemblyReference.cache
+D:\Coba Coding\C#\Pemrograman Lanjut\CalculatorWindowsFormApp\obj\Debug\CalculatorWindowsFormApp.Form1.resources
+D:\Coba Coding\C#\Pemrograman Lanjut\CalculatorWindowsFormApp\obj\Debug\CalculatorWindowsFormApp.Properties.Resources.resources
+D:\Coba Coding\C#\Pemrograman Lanjut\CalculatorWindowsFormApp\obj\Debug\CalculatorWindowsFormApp.csproj.GenerateResource.cache
+D:\Coba Coding\C#\Pemrograman Lanjut\CalculatorWindowsFormApp\obj\Debug\CalculatorWindowsFormApp.csproj.CoreCompileInputs.cache
+D:\Coba Coding\C#\Pemrograman Lanjut\CalculatorWindowsFormApp\obj\Debug\CalculatorWindowsFormApp.csproj.CopyComplete
+D:\Coba Coding\C#\Pemrograman Lanjut\CalculatorWindowsFormApp\obj\Debug\CalculatorWindowsFormApp.exe
+D:\Coba Coding\C#\Pemrograman Lanjut\CalculatorWindowsFormApp\obj\Debug\CalculatorWindowsFormApp.pdb
